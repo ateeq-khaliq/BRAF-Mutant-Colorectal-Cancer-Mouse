@@ -4,7 +4,7 @@
 
 This cutting-edge study investigates therapy-induced transdifferentiation in BRAF mutant colorectal cancer using single-cell RNA sequencing. Our goal is to unravel cellular heterogeneity, identify novel cell states, and discover mechanisms of treatment response and resistance.
 
-**Principal Investigator:** Heather M. O'Hagan, Ph.D.  
+**Principal Investigator:** Ashiq Masood, MD. Ph.D.  
 **Institution:** Indiana University School of Medicine
 
 ## 📊 Experimental Design
@@ -97,12 +97,12 @@ This cutting-edge study investigates therapy-induced transdifferentiation in BRA
 - Map cell types and states to specific tissue regions
 - Analyze spatial organization of tumor and stromal cells
 
-### 5. 🧮 Multimodal Data Integration
+### 5. 🧮 Multimodal Data Integration (IF NEEDED)
 - Integrate scRNA-seq with other omics data (e.g., ATAC-seq, proteomics)
 - Perform multi-omics factor analysis (MOFA)
 - Gain holistic insights into cellular states and functions
 
-### 6. 🦠 Microbial Analysis
+### 6. 🦠 Microbial Analysis  (IF NEEDED)
 - Identify microbial signatures in tumor samples
 - Analyze host-microbiome interactions
 - Investigate microbial influences on treatment response
@@ -130,9 +130,9 @@ This cutting-edge study investigates therapy-induced transdifferentiation in BRA
 
 ## 📞 Contact Information
 
-**Dr. Heather M. O'Hagan**  
-📧 Email: hoh@example.edu  
-🏢 Office: Medical Sciences Building, Room X123  
+**Dr.Ateeq Khaliq**  
+📧 Email: akhaliq@iu.edu  
+🏢 Office: HITS Sciences Building, Room 5005 
 🏫 Indiana University School of Medicine
 
 ---
