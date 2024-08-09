@@ -70,9 +70,9 @@ We welcome collaborations and are grateful for the support of:
 
 For more information about this research, please contact:
 
-**Dr. Heather M. O'Hagan**  
-Email: [hoh@example.edu](mailto:hoh@example.edu)  
-Office: Medical Sciences Building, Room X123  
+**Dr. Ateeq Khaliq**  
+**Dr. Ashiq Masood**  
+**Dr. Heather M. O'Hagan**   
 Indiana University School of Medicine
 
 ---
