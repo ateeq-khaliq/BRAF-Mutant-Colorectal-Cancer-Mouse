@@ -1,6 +1,6 @@
 # 🧬 Therapy-induced Transdifferentiation in BRAF Mutant Colorectal Cancer
 
-![Research Banner](picture_1.3.jpg)
+![Research Banner](images/picture_1.3.jpg)
 
 ## 👩‍🔬 Principal Investigator
 **Ashiq Masood, MD. Ph.D.**
@@ -14,7 +14,7 @@
 ## 🏢 Institutional Affiliations
 
 <table>
-  <tr><td><img src="Picture1.2.png" alt="Indiana University School of Medicine Logo"></td>
+  <tr><td><img src="images/Picture1.2.png" alt="Indiana University School of Medicine Logo"></td>
   
   </tr>
 </table>
@@ -38,7 +38,7 @@
 
 ## 📊 Experimental Design
 
-![Sample Distribution](Picture1.png)
+![Sample Distribution](images/Picture1.png)
 
 - Total Samples: 15
   - 8 Vehicle-treated (4 male, 4 female)
