@@ -2,7 +2,8 @@
 
 ## 🔬 Project Overview
 ![Project Overview](https://github.com/ateeq-khaliq/BRAF-Mutant-Colorectal-Cancer-Mouse/blob/main/Analysis/images/picture_4.png)
-https://github.com/ateeq-khaliq/BRAF-Mutant-Colorectal-Cancer-Mouse/blob/main/Analysis/images/picture_4.png
+
+
 
 This cutting-edge study investigates therapy-induced transdifferentiation in BRAF mutant colorectal cancer using single-cell RNA sequencing. Our goal is to unravel cellular heterogeneity, identify novel cell states, and discover mechanisms of treatment response and resistance.
 
