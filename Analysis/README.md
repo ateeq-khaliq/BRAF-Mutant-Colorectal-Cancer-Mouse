@@ -1,7 +1,7 @@
 # 🧬 CellRanger Analysis for Visium FLEX Mouse Data
 
 ![Mouse](https://img.shields.io/badge/Organism-Mouse-blue)
-![Spatial Transcriptomics](https://img.shields.io/badge/Method-Spatial%20Transcriptomics-brightgreen)
+![scRNASeq Transcriptomics](https://img.shields.io/badge/Method-Single-Cell-RNASEq%20Transcriptomics-brightgreen)
 ![ScRNASeq Transcriptomics](https://img.shields.io/badge/Method-Spatial%20Transcriptomics-brightgreen)
 ![CellRanger](https://img.shields.io/badge/Tool-CellRanger%207.2.0-orange)
 ![SLURM](https://img.shields.io/badge/HPC-SLURM-blueviolet)
@@ -22,7 +22,7 @@
 
 ## 🔬 Project Overview
 
-![Project Overview](Picture1.png)
+![Project Overview](images/Picture1.png)
 
 This project, led by **Ateeq Khaliq** for **Heather's Syngenic Mouse Models**, focuses on analyzing spatial transcriptomics data from mouse samples using the Visium FLEX platform. The study aims to investigate gene expression patterns in various conditions, including vehicle-treated and inhibitor-treated samples from both male and female mice.
 
@@ -90,7 +90,7 @@ The script performs the following steps:
 
 ## 🧪 Sample Information
 
-![Project Overview](Picture2.png)
+![Project Overview](images/Picture2.png)
 
 | Sample | Treatment | Sex | Sample ID | Barcode |
 |--------|-----------|-----|-----------|---------|
