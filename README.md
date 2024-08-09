@@ -3,7 +3,10 @@
 ![Research Banner](https://via.placeholder.com/1000x200?text=BRAF+Mutant+Colorectal+Cancer+Research)
 
 ## 👩‍🔬 Principal Investigator
-
+**Ashiq Masood, MD. Ph.D.**
+- Associate Professor
+- Indiana University School of Medicine
+- 
 **Heather M. O'Hagan, Ph.D.**
 - Associate Professor of Medical and Molecular Genetics
 - Indiana University School of Medicine
@@ -12,8 +15,8 @@
 
 <table>
   <tr>
-    <td><img src="https://via.placeholder.com/200x100?text=IU+School+of+Medicine" alt="Indiana University School of Medicine Logo"></td>
-    <td><img src="https://via.placeholder.com/200x100?text=IU+Simon+Cancer+Center" alt="IU Melvin and Bren Simon Comprehensive Cancer Center Logo"></td>
+    <td><img src="[https://via.placeholder.com/200x100?text=IU+School+of+Medicine](https://medicine.iu.edu/)" alt="Indiana University School of Medicine Logo"></td>
+    <td><img src="[https://via.placeholder.com/200x100?text=IU+Simon+Cancer+Center](https://cancer.iu.edu/index.html)" alt="IU Melvin and Bren Simon Comprehensive Cancer Center Logo"></td>
   </tr>
 </table>
 
