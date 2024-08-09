@@ -15,7 +15,7 @@
 
 <table>
   <tr>
-    <td><img src="https://via.placeholder.com/200x100?text=IU+School+of+Medicine" alt="Indiana University School of Medicine Logo"></td>
+    <td><img src="=https://cancer.iu.edu/" alt="Indiana University School of Medicine Logo"></td>
     <td><img src="[https://via.placeholder.com/200x100?text=IU+Simon+Cancer+Center](https://cancer.iu.edu/index.html)" alt="IU Melvin and Bren Simon Comprehensive Cancer Center Logo"></td>
   </tr>
 </table>
