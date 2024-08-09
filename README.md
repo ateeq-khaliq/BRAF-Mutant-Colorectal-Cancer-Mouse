@@ -38,7 +38,7 @@
 
 ## 📊 Experimental Design
 
-![Sample Distribution](https://via.placeholder.com/600x300?text=15+Samples:+8+Vehicle,+7+Inhibitor+Treated)
+![Sample Distribution](Picture1.png)
 
 - Total Samples: 15
   - 8 Vehicle-treated (4 male, 4 female)
