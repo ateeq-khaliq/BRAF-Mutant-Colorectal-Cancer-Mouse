@@ -1,7 +1,7 @@
 # 🧬 CellRanger Analysis for Visium FLEX Mouse Data
 
 ![Mouse](https://img.shields.io/badge/Organism-Mouse-blue)
-![scRNASeq Transcriptomics](https://img.shields.io/badge/Method-Single-Cell-RNASEq%20Transcriptomics-brightgreen)
+![scRNASeq Transcriptomics](https://img.shields.io/badge/Method-Single--Cell_RNASeq_Transcriptomics-brightgreen)
 ![ScRNASeq Transcriptomics](https://img.shields.io/badge/Method-Spatial%20Transcriptomics-brightgreen)
 ![CellRanger](https://img.shields.io/badge/Tool-CellRanger%207.2.0-orange)
 ![SLURM](https://img.shields.io/badge/HPC-SLURM-blueviolet)
