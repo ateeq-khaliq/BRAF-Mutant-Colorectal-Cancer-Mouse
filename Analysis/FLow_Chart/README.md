@@ -132,11 +132,12 @@ This cutting-edge study investigates therapy-induced transdifferentiation in BRA
 
 **Dr.Ateeq Khaliq**  
 📧 Email: akhaliq@iu.edu  
-🏢 Office: HITS Sciences Building, Room 5005 
+🏢 Office: HITS Sciences Building, Room 5005
+
 🏫 Indiana University School of Medicine
 
 ---
 
 <p align="center">
-  <em>Advancing colorectal cancer research through comprehensive single-cell genomics and integrative analyses</em>
+  <em>Advancing colorectal cancer research through comprehensive single-cell genomics and integrative analyses 🤝 </em>
 </p>
