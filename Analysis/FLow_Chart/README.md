@@ -18,11 +18,6 @@ This cutting-edge study investigates therapy-induced transdifferentiation in BRA
 - **Model:** Syngeneic orthotopic BRAFV600E colorectal cancer
 - **Treatment:** Encorafenib (BRAFi) + Gefitinib/Cetuximab (EGFRi)
 - 
-- | Treatment Group | Female Samples | Male Samples | Total Samples |
-|-----------------|----------------|--------------|---------------|
-| Vehicle-treated | 3              | 4            | 7             |
-| Inhibitor-treated | 3            | 5            | 8             |
-| **Total**       | **6**          | **9**        | **15**        |
 
 Details:
 
