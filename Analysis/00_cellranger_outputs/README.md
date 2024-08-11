@@ -88,4 +88,4 @@ For a consolidated view of all web summaries, refer to the `collected_web_summar
 
 ## Additional Information
 
-For more details on the analysis methods or file formats, please refer to the documentation of the analysis pipeline used (e.g., Space Ranger if this is from 10x Genomics).
+For more details on the analysis methods or file formats, please refer to the documentation of the analysis pipeline used (e.g., Cell Ranger/Space Ranger if this is from 10x Genomics).
