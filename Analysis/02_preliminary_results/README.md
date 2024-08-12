@@ -9,7 +9,7 @@ This repository presents the results of a comprehensive single-cell RNA sequenci
 ## 🔬 Key Findings
 
 ### 1. RNA Count Distribution by Treatment and Sex
-![RNA Count Distribution](image/1_rna_counts_by_treatment_sex.png)
+![RNA Count Distribution](https://github.com/ateeq-khaliq/BRAF-Mutant-Colorectal-Cancer-Mouse/blob/main/Analysis/02_preliminary_results/images/1_rna_counts_by_treatment_sex.png)
 
 - 🔹 Inhibitor-treated samples show wider RNA count ranges, especially in males
 - 🔹 Male samples generally exhibit higher median RNA counts
