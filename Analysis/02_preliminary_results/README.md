@@ -85,7 +85,7 @@ This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md
 ---
 
 <p align="center">
-  Made with 💙 by Your Lab Name
+  Made with 💙 by Ateeq Khaliq Lab Name
   <br>
-  [Your Institution] | [Year]
+  IUSM
 </p>
