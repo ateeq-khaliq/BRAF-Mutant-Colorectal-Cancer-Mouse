@@ -16,35 +16,35 @@ This repository presents the results of a comprehensive single-cell RNA sequenci
 - 🔹 Notable variability between treatment groups and sexes
 
 ### 2. Feature Distribution Across Barcodes
-![Feature Distribution by Barcode](path/to/feature_distribution_barcode.png)
+![Feature Distribution by Barcode](https://github.com/ateeq-khaliq/BRAF-Mutant-Colorectal-Cancer-Mouse/blob/main/Analysis/02_preliminary_results/images/2_features_by_treatment_sex.png)
 
 - 🔹 Feature counts (genes detected) vary significantly across barcodes
 - 🔹 Most samples peak between 2000-5000 features
 - 🔹 Some barcodes (e.g., BC15) show broader distributions, indicating higher cell-to-cell variability
 
 ### 3. Cell Count Analysis by Sample
-![Cell Count by Sample](path/to/cell_count_by_sample.png)
+![Cell Count by Sample](https://github.com/ateeq-khaliq/BRAF-Mutant-Colorectal-Cancer-Mouse/blob/main/Analysis/02_preliminary_results/images/4_cell_counts_by_sample.png)
 
 - 🔹 Substantial variation in cell counts across samples
 - 🔹 Inhibitor-treated male samples generally have higher cell counts
 - 🔹 Vehicle-treated samples show more consistent cell counts across replicates
 
 ### 4. RNA Counts vs Number of Features
-![RNA Counts vs Features](path/to/rna_counts_vs_features.png)
+![RNA Counts vs Features]([path/to/rna_counts_vs_features.png](https://github.com/ateeq-khaliq/BRAF-Mutant-Colorectal-Cancer-Mouse/blob/main/Analysis/02_preliminary_results/images/3_rna_counts_vs_features.png))
 
 - 🔹 Strong positive correlation between RNA counts and features detected
 - 🔹 Non-linear relationship with plateau effect at higher RNA counts
 - 🔹 Similar trends for both treatment groups, with slight variations at upper distribution
 
 ### 5. Feature Distribution by Treatment and Sex
-![Feature Distribution by Treatment and Sex](path/to/feature_distribution_treatment_sex.png)
+![Feature Distribution by Treatment and Sex](https://github.com/ateeq-khaliq/BRAF-Mutant-Colorectal-Cancer-Mouse/blob/main/Analysis/02_preliminary_results/images/5_features_by_barcode.png)
 
 - 🔹 Inhibitor-treated samples show higher median feature counts
 - 🔹 Male samples exhibit slightly higher and more variable feature counts
 - 🔹 Inhibitor treatment effect more pronounced in male samples
 
 ### 6. Density of RNA Counts by Treatment
-![Density of RNA Counts by Treatment](path/to/density_rna_counts_by_treatment.png)
+![Density of RNA Counts by Treatment](https://github.com/ateeq-khaliq/BRAF-Mutant-Colorectal-Cancer-Mouse/blob/main/Analysis/02_preliminary_results/images/6_rna_counts_density_by_treatment.png)
 
 - 🔹 Distinct distribution patterns for inhibitor-treated vs. vehicle-treated samples
 - 🔹 Inhibitor-treated samples show a shift towards higher RNA counts
