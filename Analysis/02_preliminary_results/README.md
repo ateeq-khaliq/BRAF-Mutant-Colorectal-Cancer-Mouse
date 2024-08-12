@@ -1,6 +1,6 @@
 # 🧬 Single-Cell RNA Sequencing Analysis Results
 
-![RNA-seq Banner](https://path.to/your/banner-image.jpg)
+
 
 ## 📊 Overview
 
