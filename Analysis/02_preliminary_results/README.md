@@ -30,7 +30,7 @@ This repository presents the results of a comprehensive single-cell RNA sequenci
 - 🔹 Vehicle-treated samples show more consistent cell counts across replicates
 
 ### 4. RNA Counts vs Number of Features
-![RNA Counts vs Features]([path/to/rna_counts_vs_features.png](https://github.com/ateeq-khaliq/BRAF-Mutant-Colorectal-Cancer-Mouse/blob/main/Analysis/02_preliminary_results/images/3_rna_counts_vs_features.png))
+![RNA Counts vs Features](https://github.com/ateeq-khaliq/BRAF-Mutant-Colorectal-Cancer-Mouse/blob/main/Analysis/02_preliminary_results/images/3_rna_counts_vs_features.png))
 
 - 🔹 Strong positive correlation between RNA counts and features detected
 - 🔹 Non-linear relationship with plateau effect at higher RNA counts
