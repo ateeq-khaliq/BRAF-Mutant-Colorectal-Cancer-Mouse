@@ -1,6 +1,6 @@
 # 🧬 Therapy-induced Transdifferentiation in BRAF Mutant Colorectal Cancer
 
-![Research Banner]([])
+![Research Banner]([images/banner_mouse.png])
 
 ## 👩‍🔬 Principal Investigator
 **Ashiq Masood, MD. Ph.D.**
