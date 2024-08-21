@@ -4,7 +4,7 @@
 ![ScRNASeq Transcriptomics](https://img.shields.io/badge/Method-Spatial%20Transcriptomics-brightgreen)
 ![CellRanger](https://img.shields.io/badge/Tool-CellRanger%207.2.0-orange)
 ![SLURM](https://img.shields.io/badge/HPC-SLURM-blueviolet)
-![Project Banner](images/banner_mouse2.png)
+![Project Banner](images/banner_3.png)
 ## 📚 Table of Contents
 - [Project Overview](#-project-overview)
 - [Data Description](#-data-description)
