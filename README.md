@@ -1,6 +1,6 @@
 # 🧬 Therapy-induced Transdifferentiation in BRAF Mutant Colorectal Cancer
 
-![Research Banner](images/picture_1.3.jpg)
+![Research Banner]([images/picture_1.3.jpg](https://github.com/ateeq-khaliq/BRAF-Mutant-Colorectal-Cancer-Mouse/blob/main/images/DALL%C2%B7E%202024-08-21%2012.40.07%20-%20A%20customized%20banner%20for%20'MASOOD%20LAB'%20that%20matches%20the%20theme%20of%20the%20GitHub%20project%20related%20to%20BRAF-Mutant%20Colorectal%20Cancer%20in%20mice.%20The%20design%20should%20.webp))
 
 ## 👩‍🔬 Principal Investigator
 **Ashiq Masood, MD. Ph.D.**
