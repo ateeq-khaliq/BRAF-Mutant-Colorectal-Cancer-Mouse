@@ -3,7 +3,7 @@
 ![Research Banner](images/banner_mouse.png)
 
 ## 👩‍🔬 Principal Investigator
-**Ashiq Masood, MD**
+**Dr. Ashiq Masood, MD**
 - Associate Professor
 - Indiana University School of Medicine
 - 
