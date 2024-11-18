@@ -7,7 +7,7 @@
 - Associate Professor
 - Indiana University School of Medicine
   
-**Heather M. O'Hagan, Ph.D.**
+**Dr. Heather M. O'Hagan, Ph.D.**
 - Associate Professor of Medical and Molecular Genetics
 - Indiana University School of Medicine
 
