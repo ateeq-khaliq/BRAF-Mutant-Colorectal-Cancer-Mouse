@@ -13,3 +13,6 @@
 ![celltype_proportions_samples_and_treatments](https://github.com/user-attachments/assets/a3ceb6c1-4def-438e-9590-3cc7faafae68)
 
 
+
+
+![celltype_proportions_heatmap](https://github.com/user-attachments/assets/7a8e7c40-893b-4ab2-839a-640bf2534ce6)
