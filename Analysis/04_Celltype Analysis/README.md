@@ -33,6 +33,7 @@
 
 ### 🌟Celltypes:
 
+![1](https://github.com/user-attachments/assets/b74614c9-2460-494b-85de-6dbb0013ae41)
 
 
 - 1. Epithelial Cells (Epcam, Krt8, Krt18)
@@ -43,21 +44,7 @@
 - 7. Dendritic Cells (DCs) (Cd1c, Lamp3)
 - 8. Others
 # Marker Genes Feature plots
-# Marker Genes Feature Plots  
+ 
 
 
 
-![all_cells_umap](https://github.com/user-attachments/assets/84452c0a-3e5c-4610-93f9-7feb13f8b2c9)
-
-
-
-
-
-
-
-![celltype_proportions_samples_and_treatments](https://github.com/user-attachments/assets/a3ceb6c1-4def-438e-9590-3cc7faafae68)
-
-
-
-
-![celltype_proportions_heatmap](https://github.com/user-attachments/assets/7a8e7c40-893b-4ab2-839a-640bf2534ce6)
