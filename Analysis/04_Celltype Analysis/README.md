@@ -19,8 +19,8 @@
 
 
 
-- 1. Epithelial Cells
-- 2. Endothelial Cells
+-  Epithelial Cells
+-  Endothelial Cells
 - 3. T Cells
 - 4. B Cells
 - 6. Myeloids
