@@ -15,11 +15,21 @@
 
 # Cluster Annotation
 ### The clusters were annotated using two mouse datasets, SingleR and ImmGen, along with manual annotation based on marker genes. This process led to the identification of 7 final clusters.
-#### SingleR Mouse-dataset UMAP Plot  
-<img src="https://github.com/user-attachments/assets/ad7c0b6d-1d3d-4e32-84fc-174d567d2b95" alt="SingleR UMAP Plot" width="300">
+### UMAP Plots  
 
-#### ImmGen UMAP Plot  
-<img src="https://github.com/user-attachments/assets/69e32d15-4510-4d78-ae35-6797299fc669" alt="ImmGen UMAP Plot" width="300">
+<table>
+  <tr>
+    <td>
+      <strong>SingleR Mouse-dataset UMAP Plot</strong><br>
+      <img src="https://github.com/user-attachments/assets/ad7c0b6d-1d3d-4e32-84fc-174d567d2b95" alt="SingleR UMAP Plot" width="300">
+    </td>
+    <td>
+      <strong>ImmGen UMAP Plot</strong><br>
+      <img src="https://github.com/user-attachments/assets/69e32d15-4510-4d78-ae35-6797299fc669" alt="ImmGen UMAP Plot" width="300">
+    </td>
+  </tr>
+</table>
+
 
 
 ### 🌟Celltypes:
