@@ -2,7 +2,7 @@
 
 
 
-## The Seurat analysis yielded 23 clusters, whose quality was evaluated using the silhouette score.
+- ### The Seurat analysis yielded 23 clusters, whose quality was evaluated using the silhouette score.
 
 
 
