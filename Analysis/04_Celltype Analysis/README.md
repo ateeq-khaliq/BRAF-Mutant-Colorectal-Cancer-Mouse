@@ -33,9 +33,6 @@
 
 ### 🌟Celltypes:
 
-![1](https://github.com/user-attachments/assets/b74614c9-2460-494b-85de-6dbb0013ae41)
-
-
 - 1. Epithelial Cells (Epcam, Krt8, Krt18)
 - 2. Endothelial Cells (Cldn5, Rgs5)
 - 3. T Cells (3d3d, Foxp3, Lag3)
@@ -43,8 +40,10 @@
 - 6. Myeloids (Mrc1, Tgfb1, Cxcl12, Antxr1)
 - 7. Dendritic Cells (DCs) (Cd1c, Lamp3)
 - 8. Others
+
 # Marker Genes Feature plots
- 
+## Final Umap
+![all_cells_umap](https://github.com/user-attachments/assets/ede3631e-8d92-43a3-af4c-014624b63224)
 
 
 
