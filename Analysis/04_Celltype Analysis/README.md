@@ -1,12 +1,17 @@
-#### We identified 7 major Cell types among 15 Samples:
-      1. Epithelial Cells
-      2. Endothelial Cells
-      3. T Cells
-      4. B Cells
-      5. Fibroblasts
-      6. Myeloids
-      7. Dendritic Cells (DCs)
-      8. Others
+
+
+## 🌟 We identified 7 major Cell types among 15 Samples:
+
+
+- 1. Epithelial Cells
+- 2. Endothelial Cells
+- 3. T Cells
+- 4. B Cells
+- 6. Myeloids
+- 7. Dendritic Cells (DCs)
+- 8. Others
+
+
 
 
 
