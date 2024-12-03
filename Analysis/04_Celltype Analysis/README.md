@@ -1,3 +1,17 @@
+
+![slide_13](https://github.com/user-attachments/assets/19ebab73-174e-469f-b5d2-0e110dbf6d6c)
+##  Clustree gave us the optimal resolution of *1.5* for further analysis
+## The Seurat analysis yielded 23 final clusters, whose quality was evaluated using the silhouette score. In computer science, the silhouette score measures the quality of clustering by assessing how well a data point is matched to its own cluster compared to other clusters.
+
+
+
+
+
+
+
+
+
+
 ## 🌟 We identified 7 major Cell types among 15 Samples:
 
 
