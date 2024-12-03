@@ -43,8 +43,26 @@
 - 7. Dendritic Cells (DCs) (Cd1c, Lamp3)
 - 8. Others
 # Marker Genes Feature plots
-![mouse_all_genes_feature_plots](https://github.com/user-attachments/assets/e4ba713d-f00b-4166-8249-6ccc1d2d3857)
+# Marker Genes Feature Plots  
 
+<table>
+  <tr>
+    <td>
+      <img src="https://github.com/user-attachments/assets/bf68cb08-de45-4269-8238-14a104d2c022" alt="Feature Plot 1" width="300">
+    </td>
+    <td>
+      <img src="https://github.com/user-attachments/assets/a9e6ec87-5542-4751-8433-9d3d45f9ffa1" alt="Feature Plot 2" width="300">
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <img src="https://github.com/user-attachments/assets/f6a07009-a98e-4861-8e5b-da96ba936728" alt="Feature Plot 3" width="300">
+    </td>
+    <td>
+      <img src="https://github.com/user-attachments/assets/5ad1187c-8a6f-404f-8e5a-7302d3282c74" alt="Feature Plot 4" width="300">
+    </td>
+  </tr>
+</table>
 
 
 
