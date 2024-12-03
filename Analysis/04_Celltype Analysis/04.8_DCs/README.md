@@ -1,4 +1,5 @@
 # 🧬 Dendritic Cells(DCs)
+![dcumap](https://github.com/user-attachments/assets/144553a8-27c3-4199-bdea-6b36dab6afae)
 
 <table>
   <tr>
