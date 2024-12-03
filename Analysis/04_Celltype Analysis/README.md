@@ -15,7 +15,7 @@
 
 # Cluster Annotation
 ### The clusters were annotated using two mouse datasets, SingleR and ImmGen, along with manual annotation based on marker genes. This process led to the identification of 7 final clusters.
-### UMAP Plots  
+### UMAP Plots (SingleR)
 
 <table>
   <tr>
