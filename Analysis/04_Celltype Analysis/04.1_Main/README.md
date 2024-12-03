@@ -47,6 +47,9 @@
 
 ![epit_featureplt](https://github.com/user-attachments/assets/1d49c3e7-be94-4d1c-a4b2-e6c2d42d14ec)
 
+![tcells](https://github.com/user-attachments/assets/706a1920-b2e0-4317-a7ab-4bb709645cb6)
+![mylo_f](https://github.com/user-attachments/assets/3655b062-9948-4baa-bfc5-c66542aea8c4)
+
 
 ## Final Umap
 ![all_cells_umap](https://github.com/user-attachments/assets/ede3631e-8d92-43a3-af4c-014624b63224)
