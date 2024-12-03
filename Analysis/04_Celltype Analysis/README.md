@@ -31,17 +31,16 @@
 </table>
 
 
-
 ### 🌟Celltypes:
 
 
 
-- 1. Epithelial Cells
-- 2. Endothelial Cells
-- 3. T Cells
-- 4. B Cells
-- 6. Myeloids
-- 7. Dendritic Cells (DCs)
+- 1. Epithelial Cells (Epcam, Krt8, Krt18)
+- 2. Endothelial Cells (Cldn5, Rgs5)
+- 3. T Cells (3d3d, Foxp3, Lag3)
+- 4. B Cells (Cd79a)
+- 6. Myeloids (Mrc1, Tgfb1, Cxcl12, Antxr1)
+- 7. Dendritic Cells (DCs) (Cd1c, Lamp3)
 - 8. Others
 
 
