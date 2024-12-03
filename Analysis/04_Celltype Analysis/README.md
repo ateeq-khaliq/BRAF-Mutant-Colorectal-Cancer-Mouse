@@ -1,6 +1,6 @@
+📂 ##We identified 7 major Cell types among 15 Samples:##
 
-
-## 🌟 We identified 7 major Cell types among 15 Samples:
+##  We identified 7 major Cell types among 15 Samples:
 
 
 - 1. Epithelial Cells
