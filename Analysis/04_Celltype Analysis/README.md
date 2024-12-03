@@ -1,4 +1,4 @@
-<img src="https://github.com/user-attachments/assets/19ebab73-174e-469f-b5d2-0e110dbf6d6c" alt="slide_13" width="300">  Clustree gave us the optimal resolution of ##*1.5*## for further analysis
+<img src="https://github.com/user-attachments/assets/19ebab73-174e-469f-b5d2-0e110dbf6d6c" alt="slide_13" width="300">  Clustree gave us the optimal resolution of *1.5* for further analysis
 
 
 
