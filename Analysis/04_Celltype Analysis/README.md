@@ -1,6 +1,6 @@
-<img src="https://github.com/user-attachments/assets/19ebab73-174e-469f-b5d2-0e110dbf6d6c" alt="slide_13" width="400">
+<img src="https://github.com/user-attachments/assets/19ebab73-174e-469f-b5d2-0e110dbf6d6c" alt="slide_13" width="200">
 
-![slide_13](https://github.com/user-attachments/assets/19ebab73-174e-469f-b5d2-0e110dbf6d6c)
+
 ##  Clustree gave us the optimal resolution of *1.5* for further analysis
 ## The Seurat analysis yielded 23 clusters, whose quality was evaluated using the silhouette score.
 
