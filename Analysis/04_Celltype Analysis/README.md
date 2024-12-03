@@ -1,7 +1,8 @@
 
 ![slide_13](https://github.com/user-attachments/assets/19ebab73-174e-469f-b5d2-0e110dbf6d6c)
 ##  Clustree gave us the optimal resolution of *1.5* for further analysis
-## The Seurat analysis yielded 23 final clusters, whose quality was evaluated using the silhouette score. 
+## The Seurat analysis yielded 23 clusters, whose quality was evaluated using the silhouette score.
+-  
 
 
 
@@ -11,8 +12,9 @@
 
 
 
-
-## 🌟 We identified 7 major Cell types among 15 Samples:
+# Cluster Annotation
+### The clusters were annotated using two mouse datasets, SingleR and ImmGen, along with manual annotation based on marker genes. This process led to the identification of 7 final clusters.
+### 🌟Celltypes:
 
 
 
