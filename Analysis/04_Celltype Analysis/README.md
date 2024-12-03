@@ -45,12 +45,9 @@
 # Marker Genes Feature plots
 # Marker Genes Feature Plots  
 
-![1](https://github.com/user-attachments/assets/bf68cb08-de45-4269-8238-14a104d2c022)
-![2](https://github.com/user-attachments/assets/a9e6ec87-5542-4751-8433-9d3d45f9ffa1)
-![3](https://github.com/user-attachments/assets/f6a07009-a98e-4861-8e5b-da96ba936728)
-![4](https://github.com/user-attachments/assets/5ad1187c-8a6f-404f-8e5a-7302d3282c74)
 
 
+![all_cells_umap](https://github.com/user-attachments/assets/84452c0a-3e5c-4610-93f9-7feb13f8b2c9)
 
 
 
