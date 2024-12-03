@@ -1,5 +1,5 @@
 #### We identified 7 major Cell types among 15 Samples:
-      *1. Epithelial Cells*
+      1. Epithelial Cells
       *2. Endothelial Cells*
       *3. T Cells*
       *4. B Cells*
