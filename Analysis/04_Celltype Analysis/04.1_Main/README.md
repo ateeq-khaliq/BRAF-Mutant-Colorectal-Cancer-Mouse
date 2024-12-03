@@ -43,6 +43,8 @@
 - 9. Others
 
 # Marker Genes Feature plots
+![fibro_featureplot](https://github.com/user-attachments/assets/502378d1-ab63-4750-b22e-ab83cdfa680f)
+
 ## Final Umap
 ![all_cells_umap](https://github.com/user-attachments/assets/ede3631e-8d92-43a3-af4c-014624b63224)
 
