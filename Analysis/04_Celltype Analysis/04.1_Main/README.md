@@ -39,7 +39,7 @@
 - 4. B Cells (Cd79a)
 - 6. Myeloids (Mrc1, Tgfb1, Cxcl12, Antxr1)
 - 7. Dendritic Cells (DCs) (Cd1c, Lamp3)
-- 8. Fibroblasts (Fap, Pdpn, Pdgfra, Pdgfrb, Sema3c) 
+- 8. Fibroblasts (Fap, Pdpn, Cd248, Pdgfra, Pdgfrb, Sema3c) 
 - 9. Others
 
 # Marker Genes Feature plots
