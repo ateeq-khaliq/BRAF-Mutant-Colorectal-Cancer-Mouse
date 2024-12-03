@@ -42,6 +42,14 @@
 - 6. Myeloids (Mrc1, Tgfb1, Cxcl12, Antxr1)
 - 7. Dendritic Cells (DCs) (Cd1c, Lamp3)
 - 8. Others
+# Marker Genes Feature plots
+![mouse_all_genes_feature_plots](https://github.com/user-attachments/assets/e4ba713d-f00b-4166-8249-6ccc1d2d3857)
+
+
+
+
+
+
 
 
 
