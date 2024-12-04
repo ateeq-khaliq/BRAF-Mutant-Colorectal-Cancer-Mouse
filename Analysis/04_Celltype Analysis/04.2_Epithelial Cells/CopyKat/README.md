@@ -1,2 +1,3 @@
 # 🧬🧬🧬 CopyKat (Copynumber Karyotyping of Tumors) 🧬🧬🧬 
-![image](https://github.com/user-attachments/assets/0816113f-83d8-408d-ae72-34202bca1be5)
+
+![image](https://github.com/user-attachments/assets/5d61b0e0-9fb0-4be7-8a69-3f154ddd0f2b)
