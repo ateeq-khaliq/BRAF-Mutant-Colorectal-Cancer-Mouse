@@ -4,9 +4,7 @@
 
 - ### The Seurat analysis yielded 23 clusters, whose quality was evaluated using the silhouette score.
 
-
-
-
+![UMAP](images/umap_clusters_publication.png)
 
 
 
