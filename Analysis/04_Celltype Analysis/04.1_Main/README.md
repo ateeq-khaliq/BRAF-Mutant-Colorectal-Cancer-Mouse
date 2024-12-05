@@ -7,9 +7,9 @@
 ![silhouette_scores](images/silhouette_scores_plot.png)
 ![UMAP](images/umap_clusters_publication.png)
 
+- ### Top Gene Expression Markers in each Cluster,
 
-
-
+![Heatmap](images/top_10_marker_genes_per_cluster_heatmap_improved.pdf)
 
 
 # Cluster Annotation
