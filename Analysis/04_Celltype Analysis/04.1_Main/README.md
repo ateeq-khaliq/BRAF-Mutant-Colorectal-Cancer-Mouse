@@ -1,6 +1,6 @@
 <img src="https://github.com/user-attachments/assets/19ebab73-174e-469f-b5d2-0e110dbf6d6c" alt="slide_13" width="300">  Clustree gave us the optimal resolution of *1.5* for further analysis
 
-
+<tr><td><img src="Analysis/04_Celltype Analysis/04.1_Main/images/clustree_plot_publication.pdf" alt="Cluster tree"></td>
 
 - ### The Seurat analysis yielded 23 clusters, whose quality was evaluated using the silhouette score.
 
