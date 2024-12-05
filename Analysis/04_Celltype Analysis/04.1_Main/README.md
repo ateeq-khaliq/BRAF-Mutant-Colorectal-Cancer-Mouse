@@ -54,4 +54,4 @@
 ![all_cells_umap](https://github.com/user-attachments/assets/ede3631e-8d92-43a3-af4c-014624b63224)
 ![BarPlots](images/celltype_proportions_samples_and_treatments.png)
 ![DoNuts](images/seurat_metadata_donut_plots.png)
-
+![Heatmap](images/celltype_proportions_heatmap.png)
