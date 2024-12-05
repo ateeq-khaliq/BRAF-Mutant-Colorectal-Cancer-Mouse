@@ -9,8 +9,8 @@
 
 - ### Top Gene Expression Markers in each Cluster,
 
-![Heatmap](images/top_10_marker_genes_per_cluster_heatmap_improved.pdf)
-
+![Heatmap](images/top_10_marker_genes_per_cluster_heatmap_improved.png)
+![Heatmap](images/mouse_gene_expression_category_heatmaps.png)
 
 # Cluster Annotation
 ### The clusters were annotated using two mouse datasets, SingleR and ImmGen, along with manual annotation based on marker genes. This process led to the identification of 7 final clusters.
